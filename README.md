@@ -4,9 +4,10 @@
 Под словом подозрительные подразумевается когда ботнет использует старый юзерагент браузера Chrome
 
 Пример запроса от ботнета
-`
+
+```bash
 86.38.154.71 - - [23/Jan/2025:12:47:13 +0300] "GET /import/texlive-hyphen-afrikaans/raw/2e849468b07025fca2e5016b5ad24710dce0b1c7/texlive-hyphen-afrikaans.spec HTTP/1.1" 200 730 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3091.106 Safari/537.36"
-`
+```
 
 ---
 
